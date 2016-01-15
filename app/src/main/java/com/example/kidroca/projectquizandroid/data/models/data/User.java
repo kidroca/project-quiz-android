@@ -1,4 +1,4 @@
-package com.example.kidroca.superquiz.models.data;
+package com.example.kidroca.projectquizandroid.data.models.data;
 
 /**
  * Created by kidroca on 12.1.2016 г..

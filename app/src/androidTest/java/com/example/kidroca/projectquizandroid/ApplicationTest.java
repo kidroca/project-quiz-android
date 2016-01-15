@@ -1,4 +1,4 @@
-package com.example.kidroca.superquiz;
+package com.example.kidroca.projectquizandroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

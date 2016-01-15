@@ -1,4 +1,4 @@
-package com.example.kidroca.superquiz;
+package com.example.kidroca.projectquizandroid;
 
 import org.junit.Test;
 

@@ -1,7 +1,7 @@
-package com.example.kidroca.superquiz.session;
+package com.example.kidroca.projectquizandroid.session;
 
-import com.example.kidroca.superquiz.models.data.User;
-import com.example.kidroca.superquiz.models.request.UserRequestModel;
+import com.example.kidroca.projectquizandroid.data.models.data.User;
+import com.example.kidroca.projectquizandroid.data.models.request.UserRequestModel;
 
 /**
  * Created by kidroca on 12.1.2016 г..
