@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="link_titles">
+        <item>Home</item>
+        <item>Add New</item>
+        <item>Account</item>
+    </string-array>
+    <string-array name="link_hrefs">
+        <item>http://superquiz.apphb.com/#/quizzes</item>
+        <item>http://superquiz.apphb.com/#/quizzes/add</item>
+        <item>http://superquiz.apphb.com/#/me</item>
+    </string-array>
+</resources>

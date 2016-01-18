@@ -1,22 +1,39 @@
 <resources>
-    <string name="app_name">Super Quiz</string>
+    <!--Authentication-->
+    <string name="app_name">My Little Quiz App</string>
+    <string name="login_proggress_text">Authenticating...</string>
+    <string name="login_onFail_toast">Login failed</string>
+    <string name="invalid_email_text">enter a valid email address</string>
+    <string name="invalid_password_text">between %1$d and %2$d alphanumeric characters</string>
+    <string name="invalid_confirm_password_text">the password field doesn\'t match</string>
+    <string name="email_field_text">Email</string>
+    <string name="password_field_text">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="create_account_text">No account yet? Create one</string>
+    <string name="fname_field_text">First Name</string>
+    <string name="lname_field_text">Last Name</string>
+    <string name="signup_button_text">Create Account</string>
+    <string name="go_to_login_text">Already a member? Login</string>
+    <string name="invalid_name_text">Name cannot be empty!</string>
+    <string name="signup_progress_text">Creating Account...</string>
+    <string name="account_label">Quiz Account</string>
+    <string name="err_processing_login_response">Error when proccessing the received data...</string>
+    <string name="login_success_msg">Successful login</string>
+    <string name="account_type">com.example.kidroca</string>
+    <string name="signup_onFail_toast">Registration Failed</string>
+    <string name="confirm_password_field_text">Confirm Password</string>
 
-    <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="action_register">Register new account</string>
-    <string name="action_register_short">Register</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">The password must be between 6 and 24 characters</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
-    </string>
-    <string name="login_failed_toast">Login Failed</string>
-    <string name="title_activity_signup">SignupActivity</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="prompt_confirm_pass">Confirm Password</string>
+    <!--Menu-->
+    <string name="action_settings">Settings</string>
+
+    <!--Drawer-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home_text">Home</string>
+    <string name="navigation_header_hi">Hi</string>
+    <string name="navigation_header_username">Human</string>
+    <string name="navigation_drawer_email">example@android.com</string>
 </resources>
